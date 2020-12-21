@@ -1,2 +1,2 @@
 # Devops-Assignment
-LEMP STACK with PhpMyAdmin
+LAMP STACK with nginx proxy server
