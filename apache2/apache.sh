@@ -4,6 +4,7 @@
 sudo apt-get update -y
 sudo apt-get install apache2 
 sudo nano /var/www/html/index.html
+sudo nano /etc/apache2/ports.conf
 sudo nano /etc/apache2/sites-available/000-default.conf
 
 sudo systemctl start apache2
