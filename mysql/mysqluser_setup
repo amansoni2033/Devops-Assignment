@@ -1,0 +1,9 @@
+select user,authentication_string,plugin,host from mysql.user;
+
+
+#Alter the user
+alter user 'root'@'localhost' identified with caching_sha2_password by '*******';
+
+
+#For rechecking that password and root user setup or not
+select user,authentication_string,plugin,host from mysql.user;
