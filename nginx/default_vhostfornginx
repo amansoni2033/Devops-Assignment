@@ -1,0 +1,8 @@
+#paste the location on the default file.
+        location / {
+         proxy_pass http://localhost:8080;
+
+         include /etc/nginx/proxy_params;
+              try_files $uri $uri/ =404;
+       }
+
