@@ -1,2 +1,2 @@
 # Devops-Assignment
-LAMP STACK with nginx proxy server
+ Bash script for LAMP STACK with nginx proxy server
