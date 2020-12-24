@@ -14,4 +14,4 @@ sudo service nginx reload
 sudo nginx -t
 sudo systemctl restart nginx
 
-echo "nginx complete"
+echo "nginx installation and configuration has completed"
