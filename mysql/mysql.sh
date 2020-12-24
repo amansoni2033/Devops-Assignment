@@ -12,4 +12,4 @@ sudo mysql
 
 
 
-echo "mysql install done ho gya"
+echo "mysql install done"
